@@ -1,0 +1,4 @@
+  @import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch&family=Manrope&family=Merriweather:ital,wght@1,300&family=Mulish&family=Poppins:wght@300;700&family=Raleway:wght@500&family=Roboto+Flex:opsz,wght@8..144,500&family=Roboto:wght@300;400&display=swap');
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
